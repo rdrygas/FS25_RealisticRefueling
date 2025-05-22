@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="92">
+    <author>Robert Drygas</author>
+	<version>1.0.0.0</version>
+	<title>
+        <en>Realistic Refueling</en>
+    </title>
+    <description>
+        <en><![CDATA[The script slows down fuel, water and milk flow rate to 135 liters or 35.66 gallons per minute.]]></en>
+    </description>
+    <iconFilename>icon_realisticRefueling.dds</iconFilename>
+	<multiplayer supported="true" />
+    <extraSourceFiles>
+        <sourceFile filename="realisticRefueling.lua" />
+    </extraSourceFiles>
+</modDesc>
